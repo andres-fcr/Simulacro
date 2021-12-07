@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Simulacro/static/js/main.b587b111.chunk.js",
+    "main.js.map": "/Simulacro/static/js/main.b587b111.chunk.js.map",
+    "runtime-main.js": "/Simulacro/static/js/runtime-main.cd84fbd7.js",
+    "runtime-main.js.map": "/Simulacro/static/js/runtime-main.cd84fbd7.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Simulacro/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e946414e.chunk.js": "/Simulacro/static/js/2.e946414e.chunk.js",
+    "static/js/2.e946414e.chunk.js.map": "/Simulacro/static/js/2.e946414e.chunk.js.map",
+    "index.html": "/Simulacro/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Simulacro/static/css/2.0a9ec390.chunk.css.map",
+    "static/js/2.e946414e.chunk.js.LICENSE.txt": "/Simulacro/static/js/2.e946414e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd84fbd7.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e946414e.chunk.js",
+    "static/js/main.b587b111.chunk.js"
+  ]
+}
